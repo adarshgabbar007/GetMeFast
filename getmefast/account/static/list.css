@@ -1,0 +1,10 @@
+.user {
+display: inline-block;
+}
+.image-list {
+padding: 2%;
+display: inline-block;
+}
+.follow {
+font-size: 1.5em;
+}
